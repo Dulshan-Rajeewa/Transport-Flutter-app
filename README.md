@@ -200,9 +200,25 @@ Current mock data is provided for demonstration purposes.
 - [ ] Multi-language support
 - [ ] Offline mode support
 
-## Screenshots
+## 📱 App Screenshots
 
-*Screenshots will be added here*
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/731d1e7b-af04-40f9-8a20-e68e7d4b8513" width="30%" />
+  <img src="https://github.com/user-attachments/assets/4ce0f70e-a4d5-4628-a5fc-4bafe933ff97" width="30%" />
+  <img src="https://github.com/user-attachments/assets/09a3dd7e-4cbd-42c7-9ef2-41b29ab2ff33" width="30%" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/abb68d20-88e7-4d45-8865-885452c3ced2" width="30%" />
+  <img src="https://github.com/user-attachments/assets/c7589a51-20bf-442c-bf50-666cebb664b4" width="30%" />
+  <img src="https://github.com/user-attachments/assets/6219d65d-084d-4659-86e1-e92a0fee5e2f" width="30%" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/681f119c-bfe1-4b87-a1fc-ef68109773f6" width="30%" />
+  <img src="https://github.com/user-attachments/assets/75780c37-646c-40f9-9230-b6f89f5fca4e" width="30%" />
+  <img src="https://github.com/user-attachments/assets/f83ea652-f98e-4f08-9e4d-e2bc2592e7b8" width="30%" />
+</p>
 
 ## Contributing
 
