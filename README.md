@@ -64,6 +64,7 @@ lib/
 ├── main.dart                 # App entry point
 ├── models/                   # Data models
 ```
+```
 lib/
 ├── main.dart                 # App entry point with Firebase initialization
 ├── models/                   # Data models
@@ -84,6 +85,7 @@ lib/
 │   └── firebase_service.dart
 └── utils/                    # Utilities and helpers
     └── theme.dart
+```
 ``` Prerequisites
 
 - Flutter SDK (3.0.0 or higher)
@@ -216,7 +218,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Support
 
-For support, email support@kstransport.com or create an issue in the repository.
+For support, email dulshanrajeewa@gmail.com or create an issue in the repository.
 
 ## Acknowledgments
 
